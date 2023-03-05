@@ -1,8 +1,8 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
-  <a href="https://www.orangejun.cn/photos/12">
-    <img src="https://blog-dm-01.oss-cn-hangzhou.aliyuncs.com/ZNS_MX%5BA_IOLOK%25V4OZN8US.png">
-  </a>
+<a href="https://anzhiy.cn/">
+<img src="https://cdn.jsdelivr.net/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" />
+</a>
 </h1>
 <!-- 敲代码的图片 -->
 
