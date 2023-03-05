@@ -3,8 +3,8 @@
   <a href="https://anzhiy.cn/">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=欢迎光临！我是橘子君.;console.log(%22Hello%EF%BC%8Cworld%22)">
   </a>
-  <a href="www.orangejun.cn">我的博客</a>
 </h1>
+<h1 align="center"><a href="www.orangejun.cn">我的博客| www.orangejun.cn</a></h1>
 <!-- 敲代码的图片 -->
 
 <div align="center" ><img order-radius="100px" src="https://unpkg.zhimg.com/anzhiyu-assets/image/common/github-info/Knock-Code.gif"/></div>
