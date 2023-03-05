@@ -1,7 +1,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://anzhiy.cn/">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=生活明朗，万物可爱.;console.log(%22Hello%EF%BC%8Cworld%22)">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=欢迎光临！我是橘子君（www.orangejun.cn）.;console.log(%22Hello%EF%BC%8Cworld%22)">
   </a>
 </h1>
 <!-- 敲代码的图片 -->
@@ -107,7 +107,7 @@ Markdown   6 hrs 2 mins     █▓░░░░░░░░░░░░░░░�
 </table>
 
 <!-- GitHub Activity Graph -->
-<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=anzhiyu-c&theme=xcode" /></div>
+<div align="center"><img src="www.orangejun.cn" /></div>
 
 # 🎯 𝙼𝚎𝚝𝚛𝚒𝚌
 
