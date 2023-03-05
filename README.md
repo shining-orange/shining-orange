@@ -1,7 +1,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
-  <a href="https://anzhiy.cn/">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=生活明朗，万物可爱.;console.log(%22Hello%EF%BC%8Cworld%22)">
+  <a href="https://www.orangejun.cn/photos/12">
+    <img src="https://blog-dm-01.oss-cn-hangzhou.aliyuncs.com/ZNS_MX%5BA_IOLOK%25V4OZN8US.png">
   </a>
 </h1>
 <!-- 敲代码的图片 -->
