@@ -4,7 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=欢迎光临！我是橘子君.;console.log(%22Hello%EF%BC%8Cworld%22)">
   </a>
 </h1>
-<h1 align="center"><a href="www.orangejun.cn">我的博客| www.orangejun.cn</a></h1>
 <!-- 敲代码的图片 -->
 
 <div align="center" ><img order-radius="100px" src="https://unpkg.zhimg.com/anzhiyu-assets/image/common/github-info/Knock-Code.gif"/></div>
@@ -14,6 +13,7 @@
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" /></div>
 
+<h1 align="center"><a href="www.orangejun.cn">我的博客| www.orangejun.cn</a></h1>
 # 🙋 Hello
 
 欢迎来到我的主页 😝，github 是一个很有魅力的地方 🙌，有许许多多的大佬在这里活跃，咕咕 ✋~
