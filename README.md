@@ -5,7 +5,6 @@
   </a>
 </h1>
 <!-- 敲代码的图片 -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shining-orange)](https://github.com/shining-orange/github-readme-stats)
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" /></div>
