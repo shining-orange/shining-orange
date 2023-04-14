@@ -86,16 +86,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 February 2023 - To: 03 March 2023
 
-Total Time: 84 hrs 42 mins
-
-JAVA          21 hrs 22 mins   ████████████████▒░░░░░░░░   65.08 %
-CSS            15 hrs 45 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.49 %
-YAML         11 hrs 1 min       ███▒░░░░░░░░░░░░░░░░░░░░░   12.94 %
-JSON            7 hrs 22 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
-TypeScript   7 hrs 19 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
-Markdown   6 hrs 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
 ```
 
 <!--END_SECTION:waka-->
