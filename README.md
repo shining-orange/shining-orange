@@ -10,9 +10,9 @@
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" /></div>
 
 <h1 align="center"><a href="www.orangejun.cn">我的博客| www.orangejun.cn</a></h1>
- 🙋 Hello
+ 
 
-欢迎来到我的主页 😝，github 是一个很有魅力的地方 🙌，有许许多多的大佬在这里活跃，咕咕 ✋~
+🙋 Hello 欢迎来到我的主页 😝，github 是一个很有魅力的地方 🙌，有许许多多的大佬在这里活跃，咕咕 ✋~
 
 讲真的爱记笔记真的是一个很棒的习惯 💪，每次一次学习别人的东西转变成为自己的，都是成长，了解为什么要这么做，为什么不这么做 ⚡
 
