@@ -1,6 +1,6 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
-  <a href="https://orangejun.cn/">
+  <a href="/">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=欢迎光临！我是橘子君.;console.log(%22Hello%EF%BC%8Cworld%22)">
   </a>
 </h1>
@@ -9,7 +9,7 @@
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" /></div>
 
-<h1 align="center"><a href="www.orangejun.cn">我的博客| www.orangejun.cn</a></h1>
+<h1 align="center"><a href="/">我的博客| </a></h1>
  
 
 🙋 Hello 欢迎来到我的主页 😝，github 是一个很有魅力的地方 🙌，有许许多多的大佬在这里活跃，咕咕 ✋~
@@ -23,7 +23,7 @@
 
 <!-- GitHub Activity Graph -->
 <div align="center">
-  <a href="www.orangejun.cn">我的博客</a>
+  <a href="">我的博客</a>
  </div>
 
 # 🎯 𝙼𝚎𝚝𝚛𝚒𝚌
