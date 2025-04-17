@@ -4,6 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=欢迎光临！我是橘子君.;console.log(%22Hello%EF%BC%8Cworld%22)">​
   </a>​
 </h1>​
+<h1>Hi 👋, I'm Orange</h1>
 
 ## 欢迎光临！​
   在这个数字代码的世界里，你正踏入我的技术小天地。​
@@ -26,8 +27,6 @@
 ## 持续前行​🚀
   技术的发展日新月异，我将始终保持学习的热情，不断更新我的项目，为大家带来更多优质的代码和创新的解决方案。同时，我也会及时更新我的 GitHub 主页，确保大家能够第一时间了解到我的最新动态和技术成果。期待在这个技术之旅中，与你携手共进，一起创造更多的可能！
 
-<h1>Hi 👋, I'm Mr.Orange</h1>
-<p>悟已往之不谏,知来者之可追.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
@@ -57,7 +56,6 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
 <a target="_blank" href="https://bestofjs.org/logos/vuetify.svg" style="display: inline-block;"><img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="42" height="42" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shining-orange&show_icons=true&locale=en" alt="shining-orange" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shining-orange&" alt="shining-orange" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shining-orange&show_icons=true&locale=en&layout=compact" alt="shining-orange" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shining-orange" alt="shining-orange" /></a></p>
 
