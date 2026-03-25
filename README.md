@@ -1,6 +1,6 @@
 ​
 <h1 align="center">​
-  <a href="/">​
+  <a href="https://www.catoi.cn/">​
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=欢迎光临！我是橘子.;console.log(%22Hello%EF%BC%8Cworld%22)">​
   </a>​
 </h1>​
